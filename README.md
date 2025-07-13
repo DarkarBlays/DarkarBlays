@@ -4,14 +4,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
-🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
+👨‍💻 &nbsp;I work as a Freelance Full Stack Developer, leading web projects with Node.js, Express, MongoDB, React, and Next.js.\
+💡 &nbsp;I’m passionate about exploring new technologies and creating innovative solutions to enhance productivity and user experience.\
+🎓 &nbsp;I hold a Systems Engineering degree from Universidad Popular del Cesar, with additional training in React, TypeScript, advanced JavaScript, and Cloud Computing.\
+🌱 &nbsp; I’m currently expanding my knowledge in Microservice-Based Architectures, Web3, and Machine Learning.\
+✍️ &nbsp;In my free time, I enjoy designing interfaces, sharing knowledge as a university tutor, and participating in tech events.\
+💬 &nbsp;I’m open to collaborating on pro bono consulting, volunteering, or simply exchanging ideas about development, innovation, and technology.\
+✉️ &nbsp;Feel free to reach out at juanpamendoza08@gmail.com — I’ll get back to you as soon as I can!\
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
