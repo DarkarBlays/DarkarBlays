@@ -45,6 +45,6 @@
 
 ### 👥 &nbsp;My Social Media
 
-<a href="www.linkedin.com/in/juan-pablo-mendoza-amaya-6825a2202">
+<a href="https://www.linkedin.com/in/juan-pablo-mendoza-amaya-6825a2202/">
   <img alt="Night Coding" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
